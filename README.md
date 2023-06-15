@@ -1,2 +1,3 @@
-# OpenLLM
-OpenAI and LLM Sample
+# AI전략경영 세미나 발표자료
+
+AI전략경영 세미나 발표자료와 관련된 리소스, 오픈소스 LLM에 대해 올려 두도록 하겠습니다. 
